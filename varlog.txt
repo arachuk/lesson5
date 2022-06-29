@@ -1,13 +1,12 @@
-
 total 40
 -rwxrwxrwx 1 anton anton 35149 Jun 28 16:06 LICENSE
-drwxrwxrwx 1 anton anton  4096 Jun 29 12:31 .
+drwxrwxrwx 1 anton anton  4096 Jun 29  2022 .
 drwxrwxrwx 1 anton anton  4096 Jun 28 19:20 ..
-drwxrwxrwx 1 anton anton  4096 Jun 28 23:47 .git
+drwxrwxrwx 1 anton anton  4096 Jun 29 12:36 .git
 -rwxrwxrwx 1 anton anton  1321 Jun 28 23:43 etc_dir.txt
--rwxrwxrwx 1 anton anton   131 Jun 28 23:57 executable.txt
+-rwxrwxrwx 1 anton anton   155 Jun 29 13:52 executable.sh
+-rwxrwxrwx 1 anton anton   141 Jun 29 13:53 varlog.sh
+-rwxrwxrwx 1 anton anton   130 Jun 29 13:49 executable.txt
 -rwxrwxrwx 1 anton anton   113 Jun 28 23:43 checketc.sh
--rwxrwxrwx 1 anton anton   101 Jun 28 23:56 executable.sh
--rwxrwxrwx 1 anton anton    89 Jun 29 12:30 varlog.sh
 -rwxrwxrwx 1 anton anton    18 Jun 28 16:06 README.md
--rwxrwxrwx 1 anton anton     1 Jun 29 12:31 varlog.txt
+-rwxrwxrwx 1 anton anton     0 Jun 29  2022 varlog.txt
